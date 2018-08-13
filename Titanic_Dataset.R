@@ -5,7 +5,7 @@ library(rattle)  # Visualization
 library(RColorBrewer)  # Visualization
 library(scales) # Visualization
 library(Amelia)  # Visualization
-#library(car) # Prediction: Checking Multicollinearity
+library(car) # Prediction: Checking Multicollinearity
 library(caTools) # Prediction: Splitting Data
 library(caret)  # Prediction: k-Fold Cross Validation
 library(ROCR)  # Prediction: ROC Curve
